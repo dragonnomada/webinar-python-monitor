@@ -12,11 +12,15 @@ En https://github.com/dragonnomada/webinar-python-monitor se encuentra todo el c
 
 ## Próximos Seminarios Web Gratuitos
 
-`Míercoles 31 de marzo de 2021` - **Diseño de Productos Digitales - El UI/UX y Product Thinking a detalle**
+`Jueves 25 de marzo de 2021 7pm México` - **La magia de GraphQL y la nueva era del API (repetición para KMMX)**
 
-`Miércoles 7 de abril de 2021` - **Socket IO - Comunicación en tiempo real y Streaming con APIs vivas**
+Míralo en https://www.youtube.com/watch?v=2EV6Np0b9Ps
 
-`Miércoles 13 de abril de 2021` - **Cómputo en la nube con Azure Functions - Crear un API potente en segundos sin infraestructura**
+`Míercoles 31 de marzo de 2021 8pm México` - **Diseño de Productos Digitales - El UI/UX y Product Thinking a detalle**
+
+`Miércoles 7 de abril de 2021 8pm México` - **Socket IO - Comunicación en tiempo real y Streaming con APIs vivas**
+
+`Miércoles 13 de abril de 2021 8pm México` - **Cómputo en la nube con Azure Functions - Crear un API potente en segundos sin infraestructura**
 
 ## Sígueme en Twitter y entérate de más seminarios gratuitos
 
