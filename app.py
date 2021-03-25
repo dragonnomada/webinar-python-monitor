@@ -4,7 +4,7 @@ app = Flask(__name__, static_url_path='/view/sensor', static_folder='templates/a
 
 @app.route("/")
 def home():
-    return "<h1>Hola mundo</h1>"
+    return "<h1>Estación de Monitoreo de Datos</h1>"
 
 import matplotlib.pyplot as plt
 from io import BytesIO
