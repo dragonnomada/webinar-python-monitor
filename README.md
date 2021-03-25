@@ -4,7 +4,11 @@ Alan Badillo Salas (dragonnomada123@gmail.com)
 
 ## Bienvenida
 
-En este seminario web gratuito aprenderemos a construir una estación de monitoreo de datos, que nos permitirá consumir nuestros datos generados en Python desde cualquier lugar. Además aprenderemos a crear un Dashboard con gráficas y reportes para impactar a nuestra audiencia. No necesitas saber a programar ya que Python es un lenguaje muy sencillo de aprender.
+En este seminario web gratuito aprendimos a construir una estación de monitoreo de datos, que nos permite consumir nuestros datos generados en Python desde cualquier lugar. Además aprendimos a crear un dashboard con gráficas y reportes para impactar a nuestra audiencia. No necesitamos saber a programar ya que Python es un lenguaje muy sencillo de aprender.
+
+## Mira el código que construimos juntos
+
+En https://github.com/dragonnomada/webinar-python-monitor se encuentra todo el código generado.
 
 ## Próximos Seminarios Web Gratuitos
 
