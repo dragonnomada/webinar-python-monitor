@@ -6,7 +6,47 @@ Alan Badillo Salas (dragonnomada123@gmail.com)
 
 En este seminario web gratuito aprenderemos a construir una estación de monitoreo de datos, que nos permitirá consumir nuestros datos generados en Python desde cualquier lugar. Además aprenderemos a crear un Dashboard con gráficas y reportes para impactar a nuestra audiencia. No necesitas saber a programar ya que Python es un lenguaje muy sencillo de aprender.
 
+## Próximos Seminarios Web Gratuitos
+
+`Míercoles 31 de marzo de 2021` - **Diseño de Productos Digitales - El UI/UX y Product Thinking a detalle**
+
+`Miércoles 7 de abril de 2021` - **Socket IO - Comunicación en tiempo real y Streaming con APIs vivas**
+
+`Miércoles 13 de abril de 2021` - **Cómputo en la nube con Azure Functions - Crear un API potente en segundos sin infraestructura**
+
+## Sígueme en Twitter y entérate de más seminarios gratuitos
+
+> Twitter https://twitter.com/dragonnomada123 `@dragonnomada123`
+
+Aquí publico noticias sobre nuevos artículos en mi canal de medium y nuevos vídeos en mi canal de youtube.
+
+> Instagram https://www.instagram.com/nomadacode/ `@nomadacode`
+
+Aquí encontrarás información de mi proyecto llamado **Nomada Code** si te interesa aprender con infogramas las tecnologías y quieres ser parte de la comunidad y llegar a ser un #AquitectoDeSoftware.
+
+> Youtube https://www.youtube.com/channel/UC4BQEIjIKQnCEvR3iGer37A
+
+Aquí encontrarás videos cortos como cápsulas y todos los seminarios web gratuitos por si te los perdiste.
+
+> LinkedIn https://www.linkedin.com/in/badillosoft
+
+Aquí podrás verme en la red de empleados y empleadores, por si te interesa colaborar en algún proyecto o contratar un curso de calidad profesional.
+
+> Medium https://dragonnomada.medium.com
+
+Aquí podrás ver mis artículos sobre programación avanzada, diseño y filosofía Zen.
+
+> Gmail dragonnomada123@gmail.com
+
+Finalmente, no olvides mandarme un video si tienes dudas o deseas contactar un curso, micro-curso, asesorías o consultorías. **Podemos elevar el nivel de tu equipo de desarrollo y preparárlo para las grandes ligas en proyectos de calidad internacional**.
+
+## ¡Muchas Gracias!
+
+Tu asistencia fue muy valiosa y contribuye a que siga teniendo ese ánimo y energía de acercar el conocimiento a cualquier persona. Por lo que te pido que me sigas en twitter y te suscribas. Pronto comenzaré a regalar horas consultoría a emprendedores para encaminar sus proyectos y potencias sus habilidades.
+
 ## Resumen
+
+Aquí te dejo un resumen del seminario web, espero que te sirva para completar el proyecto y darle la calidad profesional que están buscando los gobiernos, para poder implementar ciudades inteligentes.
 
 En este seminario aprendimos:
 
@@ -20,9 +60,7 @@ En este seminario aprendimos:
 
 ## Presentación
 
-Puedes consultar la presentación en:
-
-https://slides.com/dragonnomada123/python-monitor
+Puedes consultar la presentación en https://slides.com/dragonnomada123/python-monitor
 
 ## Así quedó nuestro dashboard
 
@@ -237,3 +275,11 @@ https://pythonprogramming.altervista.org/make-a-pdf-from-html-with-python-and-fl
 > Íconos de temperatura para el Dashboard con Fontawesome
 
 https://fontawesome.com/icons?d=gallery&p=2&q=temp
+
+> Plotly - Graficación profesional
+
+https://plotly.com
+
+> Socket IO - Comunicación en tiempo real (API viva)
+
+https://socket.io
