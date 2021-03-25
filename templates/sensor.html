@@ -1,0 +1,36 @@
+{% extends "admin-lte/base.html" %}
+
+{% block box1 %}
+<div class="small-box bg-warning">
+    <div class="inner">
+        <h3 id="temp-celcius">0 °C</h3>
+
+        <p>TEMPERATURA</p>
+    </div>
+    <div class="icon">
+        <i class="fas fa-temperature-low"></i>
+    </div>
+    <a href="javascript:void(0)" class="small-box-footer" onclick="showTemp()">More info <i
+            class="fas fa-arrow-circle-right"></i></a>
+</div>
+
+<script>
+    let lastData = {};
+
+    function showTemp() {
+        alert(`La temperatura es ${lastData.celcius}`);
+    }
+
+    setInterval(async () => {
+        const rensponse = await fetch("/api/sensor/temperatura");
+
+        const data = await rensponse.json();
+
+        lastData = data;
+
+        const tempCelcius = document.getElementById("temp-celcius");
+
+        tempCelcius.textContent = `${data.celcius.toFixed(2)}°C`;
+    }, 5000);
+</script>
+{% endblock %}
